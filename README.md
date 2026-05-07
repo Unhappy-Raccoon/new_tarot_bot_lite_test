@@ -1,0 +1,1 @@
+# new_tarot_bot_lite_test
